@@ -7,9 +7,9 @@ Their current presence around New York
 Their marketable population
 The quality of the properties listed, as proxied by the number of reviews_
 
-You have been tasked with analysing the above datasets to create visualisations and draw insights to answer the Mahkehtin’s concerns. 
+_You have been tasked with analysing the above datasets to create visualisations and draw insights to answer the Mahkehtin’s concerns. _
 
-You may conduct limited desktop research and make reasonable, clearly stated assumptions to aid your analysis. *
+_You may conduct limited desktop research and make reasonable, clearly stated assumptions to aid your analysis._
 
 The datasets used are provided by DACN.
 
